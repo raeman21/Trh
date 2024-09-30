@@ -24,6 +24,10 @@ ul {
 header{
     text-align: center;
     font-size: 50px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
 }
 .carousel{
   width: 800px;
@@ -66,4 +70,8 @@ header{
 }
 .rugbyimagetext{
   float: right;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
 }

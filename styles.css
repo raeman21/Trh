@@ -56,3 +56,14 @@ header{
     
 
 }
+.Rugbyimage{
+  max-width: 50%;
+  float: left;
+}
+.Headingimage{
+  float: right;
+
+}
+.rugbyimagetext{
+  float: right;
+}

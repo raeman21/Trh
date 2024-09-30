@@ -25,6 +25,24 @@ header{
     text-align: center;
     font-size: 50px;
 }
+.carousel{
+  width: 800px;
+  margin-left: auto;
+  margin-right:auto ;
+  justify-content:center;
+  object-fit: contain
+}
+@media (max-width: 768px) {
+
+  .carousel { 
+      padding: 0;
+      max-width:100%;
+      margin-left: auto;
+      margin-right:auto ;
+      justify-content:center;
+      object-fit: contain
+  }
+}
 .swiffy-slider {
 
   width: 50%; /* Adjust width as needed */
